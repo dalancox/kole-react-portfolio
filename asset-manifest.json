@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kole-react-portfolio/static/css/main.b73bcd4b.css",
+    "main.js": "/kole-react-portfolio/static/js/main.fad6115b.js",
+    "static/js/787.99e06674.chunk.js": "/kole-react-portfolio/static/js/787.99e06674.chunk.js",
+    "static/media/Proj1.png": "/kole-react-portfolio/static/media/Proj1.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj2.png": "/kole-react-portfolio/static/media/Proj2.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj3.png": "/kole-react-portfolio/static/media/Proj3.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj4.png": "/kole-react-portfolio/static/media/Proj4.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj5.png": "/kole-react-portfolio/static/media/Proj5.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj6.png": "/kole-react-portfolio/static/media/Proj6.63d0dcb1e55a42c311ea.png",
+    "index.html": "/kole-react-portfolio/index.html",
+    "main.b73bcd4b.css.map": "/kole-react-portfolio/static/css/main.b73bcd4b.css.map",
+    "main.fad6115b.js.map": "/kole-react-portfolio/static/js/main.fad6115b.js.map",
+    "787.99e06674.chunk.js.map": "/kole-react-portfolio/static/js/787.99e06674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73bcd4b.css",
+    "static/js/main.fad6115b.js"
+  ]
+}
